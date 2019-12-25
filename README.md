@@ -1,2 +1,2 @@
 # access-of-Boss---PG
-前端页面 ---  创建了BOSS切断第一版，url及上传参数名需修改
+webpage 1.0 ---  创建了BOSS切断第一版，url及上传参数名需修改
