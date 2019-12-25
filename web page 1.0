@@ -1,3 +1,5 @@
+<!-- url及上传参数名需修改 -->
+
 <!DOCTYPE html>
 <html>
   
@@ -19,20 +21,6 @@
     <script type="text/javascript" src="../js/showBo.js"></script>
    
   <script type="text/javascript">
-
-
-
-
-/*$(document).ready(function(){
-  $("#button1").click(function(){
-    quotation = [];
-    $('input[type=checkbox][name=1]:checked').each(function(){
-       quotation.push($(this).val());
-    });
-    $("#out1").text(quotation);
-
-  });
-});*/
 
    $(document).ready(function(){
       $("#button1").click(function(){
